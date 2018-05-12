@@ -1,0 +1,30 @@
+_repo: The-Story-of-the-Three-Little-Pigs_18155
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 18155-h/images/imgback-cover.jpg
+creator:
+  author:
+    agent_name: Brooke, L. Leslie (Leonard Leslie)
+    aliases:
+    - Brooke, Leslie
+    - Brooke, Leonard Leslie
+    birthdate: 1862
+    deathdate: 1940
+    gutenberg_agent_id: '3547'
+    url: http://www.gutenberg.org/2009/agents/3547
+description: ''
+gutenberg_bookshelf: Children's Picture Books
+gutenberg_issued: '2006-04-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18155'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Fairy tales'
+title: The Story of the Three Little Pigs
+url: http://www.gutenberg.org/ebooks/18155
